@@ -1,0 +1,61 @@
+html p, li, a {
+  font-family: 'Beer money';
+  font-size: 23px;
+  line-height: 1.2;
+}
+
+.hero .marketing h1.headline {
+  font-family: 'Beer money';
+  font-size: 70px;
+  line-height: 1.2;
+
+}
+
+.hero .marketing h1, .hero .marketing h2, .hero .marketing h3, .hero .marketing h4, .hero .marketing h5, .hero .marketing h6 {
+  font-family: 'Beer money';
+  font-size: 30px;
+  line-height: 1.2;
+
+}
+
+
+.block h1.headline, .block h2.headline, .block h3.headline, .block h4.headline, .block h5.headline, .block h6.headline {
+  font-family: 'Beer money';
+  font-size: 50px;
+  margin-bottom: 40px;
+  line-height: 1.2;
+
+}
+
+.block h1, .block h2, .block h3, .block h4, .block h5, .block h6 {
+  font-family: 'Beer money';
+  font-size: 40px;
+  line-height: 1.2;
+
+}
+
+.block p.headline-caption {
+  font-size: 30px;
+  line-height: 1.2;
+
+}
+
+address{
+  font-family: 'Beer money';
+  font-size: 20px;
+  line-height: 1.2;
+
+}
+
+.carousel .item>p, .carousel-caption p {
+  font-size: 20px;
+  line-height: 1.2;
+
+}
+
+.hero{
+  background: url('http://storage4.static.itmages.ru/i/16/0217/h_1455737431_7322959_7c7dbc7f64.jpg') repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
