@@ -8,6 +8,7 @@ html p, li, a {
   font-family: 'Beer money';
   font-size: 70px;
   line-height: 1.2;
+  color: black;
 
 }
 
@@ -15,6 +16,7 @@ html p, li, a {
   font-family: 'Beer money';
   font-size: 30px;
   line-height: 1.2;
+  color: black;
 
 }
 
@@ -54,8 +56,14 @@ address{
 }
 
 .hero{
-  background: url('http://storage4.static.itmages.ru/i/16/0217/h_1455737431_7322959_7c7dbc7f64.jpg') repeat center center;
+  background: url('http://storage9.static.itmages.ru/i/16/0223/h_1456255666_2321159_f87413ac42.png') repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
+}
+
+.bottom-img img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 5px;
 }
