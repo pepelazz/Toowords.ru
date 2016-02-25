@@ -4,6 +4,13 @@ html p, li, a {
   line-height: 1.2;
 }
 
+.hero .navbar .nav li a:hover {
+  color: black
+}
+
+.brand {
+  text-align: right
+}
 .hero .marketing h1.headline {
   font-family: 'Beer money';
   font-size: 70px;
@@ -56,7 +63,7 @@ address{
 }
 
 .hero{
-  background: url('http://storage9.static.itmages.ru/i/16/0223/h_1456255666_2321159_f87413ac42.png') repeat center center;
+  background: url('http://storage5.static.itmages.ru/i/16/0225/h_1456419280_4325970_62f53da0ac.jpg') repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
