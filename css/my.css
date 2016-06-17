@@ -19,7 +19,17 @@ html p, li, a {
 
 }
 
-.hero .marketing h1, .hero .marketing h2, .hero .marketing h3, .hero .marketing h4, .hero .marketing h5, .hero .marketing h6 {
+@media (max-width: 767px) {
+
+  .hero .marketing h1.headline {
+
+    font-size: 35px;
+
+  }
+}
+
+
+  .hero .marketing h1, .hero .marketing h2, .hero .marketing h3, .hero .marketing h4, .hero .marketing h5, .hero .marketing h6 {
   font-family: 'Beer money';
   font-size: 30px;
   line-height: 1.2;
